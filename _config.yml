@@ -18,7 +18,7 @@ description: A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a>
   that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo"
   target="_blank">@mdo</a>.
 url: http://lanyon.getpoole.com
-baseurl: ''
+baseurl: 
 paginate: 5
 author:
   name: Mark Otto
